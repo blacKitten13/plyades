@@ -1,4 +1,4 @@
-from bokeh.io import vplot
+# from bokeh.io import vplot
 from bokeh.models import Range
 from bokeh.plotting import figure, show
 import matplotlib.pyplot as plt
