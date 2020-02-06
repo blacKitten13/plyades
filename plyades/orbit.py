@@ -2,7 +2,7 @@ from astropy.table import Table
 from astropy.time import TimeDelta
 import astropy.units as units
 from bokeh.plotting import show, figure
-from bokeh.io import vplot
+# from bokeh.io import vplot
 import numpy as np
 import pandas as pd
 from scipy.interpolate import interp1d
