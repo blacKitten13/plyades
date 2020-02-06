@@ -1,4 +1,4 @@
-from bokeh.io import vplot
+# from bokeh.io import vplot
 from bokeh.plotting import show
 from copy import deepcopy
 from IPython.display import Latex
